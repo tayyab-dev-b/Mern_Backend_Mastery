@@ -14,3 +14,18 @@ Packages:
 
     NodeJS application:
       A node js application is the program that is written in javascript code and run in server side 
+
+ Modules:
+      Modules is a single file of code ,instead of to create everything in a single file we break the code into files these files are called modules 
+      :we have some buildIn modules:
+      fs modules,
+      http,
+      path,
+      no installation require 
+
+      and some modules must be installed before using 
+
+   file Handelling:
+     file handelling means creating , updating , deleting and managing files 
+
+     it done with fs module
