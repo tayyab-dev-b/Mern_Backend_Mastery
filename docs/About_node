@@ -1,0 +1,16 @@
+SERVER = A program that :
+1: waits for requests,
+2:process them,
+3:and sends back the responses
+
+Node:
+   A run time envirnment for JavaScript
+
+Packages:
+   A packages is a ready-made piece of code written by some one else/A packages is a reusable piece of code which is installed via npm for faster development 
+
+ Note:
+    The packages code is inside the node module folder 
+
+    NodeJS application:
+      A node js application is the program that is written in javascript code and run in server side 
