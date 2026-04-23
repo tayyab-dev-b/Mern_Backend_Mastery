@@ -6,6 +6,8 @@
 // file handelling using fs module :
 
 const fs = require('fs');
+// const os = require('os');
+// console.log(os.cpus().length);
 
 fs.writeFile('hello.txt', 'hello world', (err)=>{
     if (err) throw err;
@@ -21,3 +23,4 @@ fs.appendFile('hello.txt', '\n welcome to node js,update the file',(err)=>{
     if (err) throw err;
     console.log('file updated');
 })
+

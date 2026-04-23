@@ -9,6 +9,13 @@ Node:
 Packages:
    A packages is a ready-made piece of code written by some one else/A packages is a reusable piece of code which is installed via npm for faster development 
 
+   npm init -y:
+     npm(node package manager):packages installation updation and deletion through the npm we did 
+     init: this is the project starting point ,every nodeJs application start from init 
+     npm init makes a package.json file in our project 
+     the package.json file kept the project dependencies :the package version the package memory etc all the dependencies inside the package.json file 
+     -y: is the automatic yes to all question of the package.json file creation
+
  Note:
     The packages code is inside the node module folder 
 
@@ -29,3 +36,18 @@ Packages:
      file handelling means creating , updating , deleting and managing files 
 
      it done with fs module
+
+     Api:
+      Api(application programming interface) is a set of rules and  internet protocol which is communicate two applications each other ,a bridge that two systems communicate with each others 
+
+   Rest api:
+    Rest api is a way for client(like React) to communicate with a server using http requests:
+
+    http methods:
+     through the http methods we talking to our server 
+     http Requests:
+     Get
+     Post
+     Patch
+     Delete
+     Put
