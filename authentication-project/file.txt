@@ -1,0 +1,4 @@
+authentication project: 
+first user register  
+then user login 
+then user go to profile/dashboard page
